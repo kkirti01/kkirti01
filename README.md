@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
-<p><em><strong>Frontend Engineer</strong> @ <a href="https://www.marshmclennan.com/" target="_blank">Marsh McLennan</a> | Passionate about clean code, performance, and accessibility 🌐</em></p>
+<p><em><strong>Frontend Engineer</strong> @ <a href="https://www.marshmclennan.com/" target="_blank">Marsh McLennan</a> | Passionate about clean code, performance, and accessibility</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-kirti--goel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-goel)
 [![GitHub](https://img.shields.io/github/followers/kkirti01?label=Follow&style=social)](https://github.com/kkirti01)
