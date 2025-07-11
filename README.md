@@ -39,7 +39,7 @@ const kirti = {
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| 🛡️ [**Blue[i] Cyber**](#) | Responsive dashboard for cyber risk analytics with D3.js visualizations | Angular, D3.js, Bootstrap, WCAG |
+| 🛡️ **Blue[i] Cyber** | Responsive dashboard for cyber risk analytics with D3.js visualizations | Angular, D3.js, Bootstrap, WCAG |
 | 📊 **Imagic Inhouse** | Project tracking & KRA dashboards with mobile-first UI | Angular, HTML5, CSS3 |
 | 🚚 **Trinsight Logistics** | Real-time sensor-based fleet tracking dashboard | Angular, AWS |
 | 🛒 **Hi-Line** | UI for industrial e-commerce platform with CI/CD integration | Angular, Node.js, REST APIs |
