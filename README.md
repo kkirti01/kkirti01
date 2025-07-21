@@ -64,7 +64,7 @@ const kirti = {
 
 ### ✍️ Blog & Portfolio
 
-🔗 **Medium** (Tech blogs): *[medium.com/@kirti-goel](https://medium.com/@kkirtigoel01)*  
+🔗 **Medium** (Tech blogs): *[medium.com/@kirti-goel](https://medium.com/@kirti-goel)*  
 ---
 
 ### 📬 Let’s Connect!
