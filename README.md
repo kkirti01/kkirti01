@@ -1,9 +1,9 @@
 
-<h2>Hey there, I'm Kirti Goel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
+## Hey there, I'm Kirti Goel ![Waving hand GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+![Coding animation](https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif)
 
-<p><em><strong>Frontend Engineer</strong> @ <a href="https://www.marshmclennan.com/" target="_blank">Marsh McLennan</a> | Passionate about clean code, performance, and accessibility</em></p>
+_**Frontend Engineer** @ [Marsh McLennan](https://www.marshmclennan.com/) | Passionate about clean code, performance, and accessibility_
 
 [![LinkedIn](https://img.shields.io/badge/-kirti--goel-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-goel)
 [![GitHub](https://img.shields.io/github/followers/kkirti01?label=Follow&style=social)](https://github.com/kkirti01)
@@ -64,12 +64,10 @@ const kirti = {
 
 ### ✍️ Blog & Portfolio
 
-🔗 **Medium** (Tech blogs): *[medium.com/@kirti-goel](https://medium.com/@kkirtigoel01)*  
+🔗 **Medium** (Tech blogs): *[medium.com/@kirti-goel](https://medium.com/@kirti-goel)*
 ---
 
 ### 📬 Let’s Connect!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love building clean, human-centered UIs</b> — and I enjoy collaborating with people from all walks of life. Let's connect and make the web a better place!</em> 😊
-
----
+![Handshake GIF](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+_**I love building clean, human-centered UIs** — and I enjoy collaborating with people from all walks of life. Let's connect and make the web a better place!_ 😊
